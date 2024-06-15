@@ -7,6 +7,6 @@
 #logo {
 	width: 200px;
 	height: 200px;
-	background: url('../assets/holberton-logo.jpg') no-repeat center center;
+	background: url('../assests/holberton-logo.jpg') no-repeat center center;
 	background-size: cover ;
 }
